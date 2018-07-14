@@ -1,1 +1,1 @@
-Based on # [ng-boilerplate](github.com/joshdmiller/ng-boilerplate)
+Based on [ng-boilerplate](github.com/joshdmiller/ng-boilerplate)
