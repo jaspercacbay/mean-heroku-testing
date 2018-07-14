@@ -3,6 +3,9 @@
   "name": "ngbp",
   "version": "0.3.2",
   "homepage": "https://github.com/ngbp/ngbp",
+  "engines": {
+    "node": "8.11.3"
+  },
   "licenses": {
     "type": "MIT",
     "url": "https://raw.github.com/ngbp/ngbp/master/LICENSE"
