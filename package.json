@@ -8,7 +8,6 @@
   },
   "scripts": {
     "start": "grunt watch",
-    "postinstall": "bower install && grunt build",
     "heroku-prebuild": "echo This runs before Heroku installs your dependencies.",
     "heroku-postbuild": "echo This runs afterwards."
   },
